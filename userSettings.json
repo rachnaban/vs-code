@@ -1,0 +1,113 @@
+{
+  /*   "workbench.colorTheme": "Ayu Mirage",
+    "files.associations": {
+      "*.js": "javascript"
+    },
+    "editor.formatOnSave": true,
+    "prettier.singleQuote": true,
+    "prettier.trailingComma": "all",
+    "C_Cpp.intelliSenseEngineFallback": "Disabled",
+    "prettier.bracketSpacing": false,
+    "prettier.proseWrap": "always",
+    "eslint.alwaysShowStatus": true,
+    "eslint.autoFixOnSave": true,
+    "typescript.validate.enable": false,
+    "javascript.suggest.autoImports": false,
+    "javascript.suggestionActions.enabled": false,
+    "typescript.format.enable": false,
+    "javascript.validate.enable": false,
+    "javascript.format.enable": false,
+    "git.autofetch": true*/
+
+  // Place your settings in this file to overwrite the default settings
+  "editor.formatOnSave": true,
+  "editor.detectIndentation": true,
+  "editor.fontSize": 16,
+  "editor.parameterHints.enabled": false,
+  "editor.fontFamily": "'Dank Mono', Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontLigatures": false,
+  "editor.rulers": [80],
+  "editor.snippetSuggestions": "top",
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "boundary",
+  "editor.glyphMargin": false,
+  "editor.folding": false,
+  "files.exclude": {
+    "USE_GITIGNORE": true
+  },
+  "javascript.suggest.autoImports": false,
+  "javascript.validate.enable": false,
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/coverage": true,
+    "**/dist": true,
+    "**/build": true,
+    "**/.build": true,
+    "**/.gh-pages": true
+  },
+  "eslint.autoFixOnSave": false,
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+  "eslint.options": {
+    "env": {
+      "browser": true,
+      "jest/globals": true,
+      "es6": true
+    },
+    "parserOptions": {
+      "ecmaVersion": 2018,
+      "sourceType": "module",
+      "ecmaFeatures": {
+        "jsx": true
+      }
+    },
+    "rules": {
+      "no-debugger": "off"
+    }
+  },
+  "terminal.integrated.experimentalBufferImpl": "TypedArray",
+  "terminal.integrated.shellArgs.osx": ["-l"],
+  "files.associations": {
+    "*.md": "mdx"
+  },
+  "explorer.openEditors.visible": 0,
+  "editor.lineNumbers": "on",
+  "workbench.colorTheme": "Night Owl",
+  "breadcrumbs.enabled": true,
+  "prettier.eslintIntegration": false,
+  "prettier.bracketSpacing": false,
+  "prettier.printWidth": 80,
+  "prettier.tabWidth": 2,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "all",
+  "prettier.jsxBracketSameLine": false,
+  "prettier.semi": false,
+  "prettier.useTabs": false,
+  "prettier.proseWrap": "always",
+  "local-history.absolute": true,
+  "local-history.path": "/Users/kdodds/.vscode-history",
+  "grunt.autoDetect": "off",
+  "npm.runSilent": true,
+  "gulp.autoDetect": "off",
+  "workbench.iconTheme": "material-icon-theme",
+  "explorer.confirmDragAndDrop": false,
+  "workbench.sideBar.location": "left",
+  "atomKeymap.promptV3Features": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.formatOnPaste": false,
+  "workbench.startupEditor": "none",
+  "window.zoomLevel": 0,
+  "editor.minimap.enabled": false,
+  "workbench.activityBar.visible": false,
+  "spellright.language": ["en"],
+  "spellright.documentTypes": ["markdown", "plaintext"],
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.smoothScrolling": true
+}
